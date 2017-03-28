@@ -1,0 +1,2 @@
+# TextViewPlaceholder
+给UITextView添加了placeholder属性，并且可以修改placeholder的颜色和垂直位置
